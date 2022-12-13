@@ -11,7 +11,7 @@
 
 ## About me
 
-I started as financial analyst and manager. I have more than 15 years expirience in finance, economics, accounting and finance analyse. i worked in banks, trading and investment companies. Now I want to change my proffecional area. I very intrested in WEB Development, so i started study front-end. My goal is - become a full-stack developer.
+I've started my career as financial analyst and manager. I have more than 15 years expirience in finance, economics, accounting and financial analysis. I worked in banks, trading and investment companies. Now I want to change my Professional area. I very intrested in WEB Development, so i started study front-end. My goal is to become a full-stack developer.
 
 ## Hard skills
 
