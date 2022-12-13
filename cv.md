@@ -1,8 +1,11 @@
-#**Olga Oskolskaya**#
+# **Olga Oskolskaya**
 
-##-Junior Front-end Developer-##
+-Junior Front-end Developer-
 
-##Contact information##
+---
+
+## Contact information
+
 phone: +79254691020
 e-mail oskolskaya.o.o@gmail.com
 Telegram @o_oskolskaya
@@ -10,20 +13,20 @@ Git Hub
 
 ---
 
-##About me##
+## About me
 
 ---
 
-##Hard skills##
+## Hard skills
 
 ---
 
-##Soft skills##
+## Soft skills
 
 ---
 
-##Education##
+## Education
 
 ---
 
-##languages##
+## Languages
