@@ -1,6 +1,6 @@
-## #**Olga Oskolskaya**#
+#**Olga Oskolskaya**#
 
-## №№-Junior Front-end Developer-##
+##-Junior Front-end Developer-##
 
 ##Contact information##
 phone: +79254691020
