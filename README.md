@@ -1,2 +1,1 @@
-# rsschool-cv
-Repository for git study
+https://OskolskayaOlga.github.io/rsschool-cv/cv
