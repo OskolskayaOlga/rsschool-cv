@@ -1,6 +1,6 @@
 # **Olga Oskolskaya**
 
-## -Junior Front-end Developer-
+### Junior Front-end Developer
 
 ## Contact information
 
@@ -15,14 +15,25 @@ I started as financial analyst and manager. I have more than 15 years expirience
 
 ## Hard skills
 
--HTML, CSS
--JavaScript Basics
--Git, VS Code
--Adobe Illustrator, Figma
+- HTML, CSS
+- JavaScript Basics
+- Git, VS Code
+- Adobe Illustrator, Figma
 
 ## Soft skills
 
+- Quick learner
+- Teamwork
+- Initiative
+- Openminded
+
 ## Education
+
+- CS50 Lectures
+- Hexlet HTML/CSS Basics Git Basics
+- HTML Academy HTML Basics
+- ITGirlSchool Front-end developer
+- RS School 0 Level
 
 ## Languages
 
